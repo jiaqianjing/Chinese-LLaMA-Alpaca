@@ -2,3 +2,6 @@
 */.DS_Store
 *.ipynb
 */*.ipynb
+output_dir
+combined*
+temp*
